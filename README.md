@@ -12,9 +12,9 @@
 - 🎓 **ECE Prefinal Year Student**
 - 💻 Interested in **Software Development** & **Full Stack**
 - ⚡ Exploring **IoT & Embedded Systems**
-- 📚 Currently learning **Java, DSA & MySQL**
+- 📚 Currently learning **Java & MySQL**
 - 🌱 Love to build **real-world solutions**
-- 📧 **Email:** saimiruthul@gmail.com
+- 📧 **Email:** praveenkkris@gmail.com
 
 ---
 
@@ -28,7 +28,7 @@
 
 ### 🌐 Web Development  
 <p>
-  <img src="https://img.icons8.com/color/48/html-5.png" title="HTML5" height="40"/>
+  <img src="https://img.icons8.com/color/48/html-5.png" title="HTML" height="40"/>
   <img src="https://img.icons8.com/officel/48/php-logo.png" title="PHP" height="40"/>
 </p>
 
@@ -70,7 +70,7 @@ A **web-based application** for managing pharmacy operations:
 
 ## 🌐 Connect with Me
 <p>
-  <a href="https://www.linkedin.com/in/miruthul-kumar-murali-656271290/">
+  <a href="https://www.linkedin.com/in/praveen-kumar-538b21338?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/PraveenKumar05-hub">
