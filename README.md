@@ -1,9 +1,9 @@
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8a2be2&height=90&section=header&text=PRAVEEN%20KUMAR%20K&fontSize=32&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00C9FF,92FE9D&height=90&section=header&text=PRAVEEN%20KUMAR%20K&fontSize=32&fontColor=ffffff"/>
 
 <!-- Typing Intro -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&color=8A2BE2&center=true&vCenter=true&width=800&lines=Software+Development+%7C+Full+Stack;IoT+Enthusiast;Passionate+Coder;Always+Learning+New+Things"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&color=00C9FF&center=true&vCenter=true&width=800&lines=Software+Development+%7C+Full+Stack;IoT+Enthusiast;Passionate+Coder;Always+Learning+New+Things"/>
 </div>
 
 ---
@@ -49,11 +49,9 @@
 ## 🛠 Coding Tools
 <p>
   <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" title="VS Code" height="40"/>
-  <img src="https://img.icons8.com/color/48/intellij-idea.png" title="IntelliJ IDEA" height="40"/>
   <img src="https://img.icons8.com/color/48/git.png" title="Git" height="40"/>
   <img src="https://img.icons8.com/color/48/github.png" title="GitHub" height="40"/>
   <img src="https://img.icons8.com/color/48/mysql-logo.png" title="MySQL Workbench" height="40"/>
-  <img src="https://img.icons8.com/color/48/java-eclipse.png" title="Eclipse" height="40"/>
 </p>
 
 ---
@@ -70,7 +68,7 @@ A **web-based application** for managing pharmacy operations:
 
 ## 🌐 Connect with Me
 <p>
-  <a href="https://www.linkedin.com/in/praveen-kumar-538b21338?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+  <a href="https://www.linkedin.com/in/praveen-kumar-538b21338/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/PraveenKumar05-hub">
@@ -87,4 +85,4 @@ A **web-based application** for managing pharmacy operations:
 ---
 
 <!-- Footer Animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8a2be2&height=90&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00C9FF,92FE9D&height=90&section=footer"/>
