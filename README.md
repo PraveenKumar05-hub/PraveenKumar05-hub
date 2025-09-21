@@ -3,7 +3,7 @@
 
 <!-- Typing Intro -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&color=00C9FF&center=true&vCenter=true&width=800&lines=Software+Development+%7C+Full+Stack;IoT+Enthusiast;Passionate+Coder;Always+Learning+New+Things"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&color=00C9FF&center=true&vCenter=true&width=800&lines=Software+Development+%7C+Full+Stack;IoT+Enthusiast;Developing+Programming+Skills;Ready+to+learn+new+Skills"/>
 </div>
 
 ---
