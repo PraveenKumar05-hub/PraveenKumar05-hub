@@ -1,110 +1,161 @@
-<!-- Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=150&section=header&text=Praveen%20Kumar%20K&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Praveen%20Kumar%20K&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<h2 align="center">Full Stack Developer • ECE Student • IoT Builder</h2>
 
-# 👋 Hi, I'm Praveen Kumar
+<p align="center">
+Building real-world systems by combining <b>Software Development</b> with <b>Electronics & IoT</b>.
+</p>
 
-🎓 ECE Pre-Final Year Student
-💻 Aspiring Full Stack Developer
-🚀 Building real-world web applications
-
----
-
-# 👨‍💻 About Me
-
-* 🎓 Electronics and Communication Engineering Student
-* 💻 Focused on **Full Stack Web Development**
-* 🌱 Currently learning **React, Node.js, MongoDB**
-* ⚡ Interested in building **real-world problem solving applications**
-* 🎯 Goal: Become a **strong Full Stack Developer**
+<p align="center">
+<a href="mailto:praveenkkris@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/PraveenKumar05-hub">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
 
 ---
 
-# 🛠 Tech Stack
+# 🚀 About Me
 
-### Languages
+* 🎓 **ECE Pre-Final Year Student**
+* 💻 Focused on **Full Stack Development (MERN Stack)**
+* 🔧 Experience with **Embedded Systems & IoT Projects**
+* 🧠 Interested in **building real-world problem solving systems**
+* 🌱 Currently learning **advanced React, backend architecture and system design**
+* 🎯 Goal: Become a **strong Full Stack Software Engineer**
 
-Java • JavaScript • HTML • CSS
+---
+
+# 💻 Tech Stack
+
+### Programming Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3)
+
+---
 
 ### Frontend
 
-React.js • Bootstrap • Tailwind
-
-### Backend
-
-Node.js • Express.js
-
-### Database
-
-MongoDB • MySQL
-
-### Tools
-
-Git • GitHub • VS Code • Arduino IDE
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge\&logo=bootstrap)
 
 ---
 
-# 🚀 Featured Projects
+### Backend
 
-## 📚 Academic Resource Hub
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express)
 
-A **full stack college portal** for managing study materials and assignments.
+---
+
+### Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb)
+
+---
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=arduino)
+
+---
+
+# 🔥 Featured Projects
+
+### 📚 Academic Resource Hub
+
+A **full-stack college portal** that manages study materials, assignments and department workflows.
 
 **Features**
 
 * Role-based dashboards (Admin / Faculty / Student)
-* Study material upload and download
-* Assignment submission system
-* Notification system
-* Department-based filtering
+* Study material upload and filtering
+* Assignment management system
+* Notifications and alerts
 
 **Tech Stack**
 
 React • Node.js • Express • MongoDB
 
-🔗 GitHub Repository
-https://github.com/PraveenKumar05-hub/academic-resource-hub
+🔗 Repository
+https://github.com/PraveenKumar05-hub
 
 ---
 
-## 💊 Pharmacy Management System
+### 💊 Pharmacy Management System
 
-A web application to manage pharmacy operations.
+Web-based system designed to manage pharmacy operations efficiently.
 
 **Features**
 
 * Medicine inventory tracking
-* Order management
-* Sales reports
-* Role-based authentication
+* Order management system
+* Role-based dashboards
+* Sales tracking
 
 **Tech Stack**
 
 React • Node.js • MongoDB
 
-🔗 GitHub Repository
-https://github.com/PraveenKumar05-hub/Pharmacy-Management-System
+---
+
+### 🌍 IoT Air Quality Monitoring System
+
+Real-time air quality monitoring using IoT sensors.
+
+**Features**
+
+* Gas detection using MQ sensors
+* Temperature & humidity monitoring
+* GPS location tracking
+* Cloud data visualization
+
+**Tech Stack**
+
+ESP32 • Sensors • IoT Cloud
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=PraveenKumar05-hub\&show_icons=true\&theme=tokyonight)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenKumar05-hub\&layout=compact\&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=PraveenKumar05-hub&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenKumar05-hub&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PraveenKumar05-hub&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-# 🌐 Connect With Me
+# 🎯 Current Focus
 
-📧 Email: [praveenkkris@gmail.com](mailto:praveenkkris@gmail.com)
+* Building **full stack MERN applications**
+* Developing **IoT based monitoring systems**
+* Improving **backend architecture & APIs**
+* Learning **system design and scalable web apps**
 
-💼 LinkedIn
-https://www.linkedin.com/in/praveen-kumar-538b21338/
+---
+
+# 📬 Let's Connect
+
+📧 Email: **[praveenkkris@gmail.com](mailto:praveenkkris@gmail.com)**
 
 💻 GitHub
 https://github.com/PraveenKumar05-hub
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=120&section=footer" />
