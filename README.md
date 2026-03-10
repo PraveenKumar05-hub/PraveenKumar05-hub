@@ -33,13 +33,13 @@ Building real-world systems by combining <b>Software Development</b> with <b>Ele
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3)
+
 
 ### Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge\&logo=bootstrap)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3)
 
 ### Backend
 
@@ -104,16 +104,6 @@ ESP32 • MQ Sensors • Cloud Monitoring
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=PraveenKumar05-hub&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PraveenKumar05-hub&theme=tokyo-night&hide_border=true&area=true"/>
 
 </p>
 
