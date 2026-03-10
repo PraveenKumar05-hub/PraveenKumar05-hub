@@ -1,6 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=150&section=header&text=Praveen%20Kumar%20K&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=150&section=header&text=Praveen%20Kumar%20K&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 
-<h2 align="center">Full Stack Developer • ECE Student • IoT Builder</h2>
+<h2 align="center">Full Stack Developer • ECE Student • IoT Enthusiast</h2>
 
 <p align="center">
 Building real-world systems by combining <b>Software Development</b> with <b>Electronics & IoT</b>.
@@ -20,44 +20,35 @@ Building real-world systems by combining <b>Software Development</b> with <b>Ele
 # 🚀 About Me
 
 * 🎓 **ECE Pre-Final Year Student**
-* 💻 Focused on **Full Stack Development (MERN Stack)**
-* 🔧 Experience with **Embedded Systems & IoT Projects**
-* 🧠 Interested in **building real-world problem solving systems**
-* 🌱 Currently learning **advanced React, backend architecture and system design**
-* 🎯 Goal: Become a **strong Full Stack Software Engineer**
+* 💻 Focused on **Full Stack Web Development**
+* 🔧 Experience with **IoT & Embedded Systems**
+* 🌱 Currently learning **React, Node.js and backend architecture**
+* 🎯 Goal: Become a **strong full-stack developer**
 
 ---
 
 # 💻 Tech Stack
 
-### Programming Languages
+### Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3)
 
----
-
 ### Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge\&logo=bootstrap)
-
----
 
 ### Backend
 
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express)
 
----
-
 ### Database
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb)
-
----
 
 ### Tools
 
@@ -72,34 +63,17 @@ Building real-world systems by combining <b>Software Development</b> with <b>Ele
 
 ### 📚 Academic Resource Hub
 
-A **full-stack college portal** that manages study materials, assignments and department workflows.
-
-**Features**
-
-* Role-based dashboards (Admin / Faculty / Student)
-* Study material upload and filtering
-* Assignment management system
-* Notifications and alerts
+Full-stack college portal for managing study materials and assignments.
 
 **Tech Stack**
 
 React • Node.js • Express • MongoDB
 
-🔗 Repository
-https://github.com/PraveenKumar05-hub
-
 ---
 
 ### 💊 Pharmacy Management System
 
-Web-based system designed to manage pharmacy operations efficiently.
-
-**Features**
-
-* Medicine inventory tracking
-* Order management system
-* Role-based dashboards
-* Sales tracking
+Web application for managing pharmacy inventory, orders and reports.
 
 **Tech Stack**
 
@@ -111,16 +85,9 @@ React • Node.js • MongoDB
 
 Real-time air quality monitoring using IoT sensors.
 
-**Features**
-
-* Gas detection using MQ sensors
-* Temperature & humidity monitoring
-* GPS location tracking
-* Cloud data visualization
-
 **Tech Stack**
 
-ESP32 • Sensors • IoT Cloud
+ESP32 • MQ Sensors • Cloud Monitoring
 
 ---
 
@@ -128,34 +95,57 @@ ESP32 • Sensors • IoT Cloud
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PraveenKumar05-hub&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=PraveenKumar05-hub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenKumar05-hub&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PraveenKumar05-hub&theme=tokyonight&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=PraveenKumar05-hub&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PraveenKumar05-hub&theme=tokyo-night&hide_border=true&area=true"/>
+
 </p>
 
 ---
 
 # 🎯 Current Focus
 
-* Building **full stack MERN applications**
+* Building **full-stack MERN applications**
 * Developing **IoT based monitoring systems**
-* Improving **backend architecture & APIs**
-* Learning **system design and scalable web apps**
+* Improving **backend API design**
+* Learning **system design and scalable applications**
 
 ---
 
-# 📬 Let's Connect
+# 💡 Developer Quote
 
-📧 Email: **[praveenkkris@gmail.com](mailto:praveenkkris@gmail.com)**
+<p align="center">
 
-💻 GitHub
-https://github.com/PraveenKumar05-hub
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=120&section=footer" />
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=PraveenKumar05-hub&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=120&section=footer"/>
