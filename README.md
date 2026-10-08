@@ -20,7 +20,7 @@ Building real-world systems by combining <b>Software Development</b> with <b>Ele
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://praveenkris.netlify.app/">
+<a href="https://praveenkrish.netlify.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -30,7 +30,7 @@ Building real-world systems by combining <b>Software Development</b> with <b>Ele
 
 # 🚀 About Me
 
-- 🎓 ECE Pre-Final Year Student  
+- 🎓 ECE Final Year Student  
 - 💻 Focused on Full Stack Web Development  
 - 🔧 Experience with Embedded Systems & IoT  
 - 🌱 Currently learning React, Node.js, backend architecture  
