@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=150&section=header&text=Praveen%20Kumar%20K&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 
-<h2 align="center">Full Stack Developer • ECE Student • IoT Builder</h2>
+<h2 align="center">ECE Student • IoT Builder</h2>
 
 <p align="center">
 Building real-world systems by combining <b>Software Development</b> with <b>Electronics & IoT</b>.
